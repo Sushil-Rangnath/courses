@@ -1,3 +1,4 @@
 # courses
 courses project
-author is sushi, kumar
+</br>
+author is sushi kumar
